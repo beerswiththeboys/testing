@@ -6,9 +6,9 @@
     const {leagueName,
     leagueId,} = data;
     let leagues = [
-        { id: 1, name: 'Legend League' },
-        { id: 2, name: 'Big Beer Week' },
-        { id: 3, name: 'League 3' }
+        { id: 1, name: 'Beers With The Boys' },
+        { id: 2, name: 'Pinot Grigio With The Boys' },
+        { id: 3, name: 'Jungle Juice With The Boys' }
     ];
     function saveLeague(league) {
        
